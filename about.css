@@ -1,0 +1,43 @@
+body{
+    background-color: mediumspringgreen;
+    text-align: center;
+    border: black 20px solid;
+    border-radius: 50px 80px 100px 20px;}
+ h3{color: maroon;
+     font-size: 30px;
+     border:black 10px dotted ;
+     text-align: left;
+
+}
+p{
+}
+.one{
+    font-size: 20px;
+    color: green;
+padding-top: 100px;
+}
+a{
+}
+a:hover{
+    color: gold;
+    font-size: 30px;
+    display: block;
+    font-weight: bold;
+    cursor: pointer;
+    padding-inline-start: 20px;
+}
+#one{
+    color: magenta;
+    font-size: 30px;
+}
+#two{
+color: purple;
+    font-size: 32px;
+}
+#three{
+    color: darksalmon;font-size: 35px;
+}
+#four{
+    color: royalblue;
+    font-size: 38px;
+}

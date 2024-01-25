@@ -1,0 +1,16 @@
+body{
+    background-color: greenyellow;
+    border: black 10px dashed;
+}
+a{
+
+}
+a:hover{
+    color: yellow;
+    font-size: 20px;
+    cursor: grab;
+}
+.one{
+    color: red;
+    font-size: 15px;
+}
